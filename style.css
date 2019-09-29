@@ -1,0 +1,20 @@
+.modal {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 2 px solid #cccccc;
+    padding: 50 px 100px;
+    background-color: #c5c1c1ee;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px dashed red;
+    font-size : 80px;
+    text-align: center;
+
+}
+
+
